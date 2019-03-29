@@ -1,2 +1,3 @@
-print("Hello word");
-print("Glad To see you);
+print("Hello word")
+print("Glad To see you)
+print("How do you do")
